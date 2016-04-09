@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="google_app_id">E-Concrete</string>
+
+
+    <string name="app_name">E-Concrete</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_pfofile">Профиль</string>
+    <string name="action_eds">Файл ЭЦП (*.p12)</string>
+    <string name="action_chat">Чат</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_exit">Выход</string>
+
+
+    <string name="title_activity_auth">E-Concrete</string>
+    <string name="title_activity_chat">Чат</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in_short">Вход в систему</string>
+    <string name="action_next_fragment">Далее</string>
+    <string name="no_message">Не получен ответ от сервера</string>
+    <string name="insert_login_password">Введите E-Mail и пароль</string>
+    <string name="connection_error">Ошибка соединения</string>
+    <string name="session_expired">Сессия закрыта</string>
+    <string name="success_auth">Успешная аутификация</string>
+    <string name="error_incorrect_password">Неверный пароль</string>
+    <string name="token_device_sent">Успешная отправка токена устройства</string>
+    <string name="loading">Загрузка данных</string>
+    <string name="open_GPS">Не включен GPS. Открыть настройки GPS?</string>
+    <string name="turn_on_gps">Включите GPS</string>
+    <string name="turn_on">Включить</string>
+    <string name="cancel">Отмена</string>
+    <string name="error_invalid_email">Неверный формат поле E-Mail</string>
+    <string name="error_invalid_name">В имени только буквы</string>
+    <string name="error_invalid_password">Должен быть не меньше 6 символов</string>
+
+
+    <string name="gcm_send_message">Токен отправлен и сохранен. Push-уведомления включены.</string>
+    <string name="registering_message">Регистрация токена...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+    <string name="title_activity_digital_signature">DigitalSignatureActivity</string>
+
+    <!-- ЭЦП -->
+    <string name="alias">Alias</string>
+    <string name="algorithm">Algorithm</string>
+    <string name="result">Verified: </string>
+    <string name="title_activity_maps">Отслеживание</string>
+</resources>
